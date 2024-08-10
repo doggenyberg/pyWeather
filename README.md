@@ -42,20 +42,24 @@ You can preview the app online at: [pyWeather](https://pyweather-tgl0.onrender.c
    git clone https://github.com/yourusername/pyWeather.git
    cd pyWeather
    ```
+2. **Install requirements**
+   ```bash
+   pip install -r requirements.txt
+   ```
    
-2. **Set Up Environment Variables:**
+3. **Set Up Environment Variables:**
    Create a `.env` file in the root directory and add your OpenWeatherMap API key:
    ```env
    API_KEY=your_openweathermap_api_key
    ```
    
-3. **Run the Flask Server:**
+4. **Run the Flask Server:**
    ```bash
    python app.py
    ```
    The server will start on http://0.0.0.0:5000.
 
-4. **Open in Browser:**
+5. **Open in Browser:**
    Navigate to http://localhost:5000 in your web browser to use the application.
 
 ## Project Structure
