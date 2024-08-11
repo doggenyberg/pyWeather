@@ -2,6 +2,10 @@
 
 pyWeather is a web application that provides current weather information for any city globally. Built with a modern and sleek design, the app offers a user-friendly interface to search for weather conditions and view detailed weather statistics. It fetches real-time weather data from the OpenWeatherMap API and displays it dynamically.
 
+## Live Preview
+
+You can preview the app online at: [pyWeather](https://pyweather-tgl0.onrender.com/). Please note that it may take 30-60 seconds for the page to fully load when accessing the site.
+
 ## Features
 
 - **Search for Weather:** Enter any city name to get the current weather information.
@@ -15,10 +19,6 @@ pyWeather is a web application that provides current weather information for any
 - **Dynamic Images:** Weather conditions are visually represented with appropriate images (e.g., clear, clouds, rain).
 - **Error Handling:** Displays an error banner if the city is not found or if there is an issue with the weather API.
 - **Responsive Design:** The app is optimized for both desktop and mobile devices.
-
-## Live Preview
-
-You can preview the app online at: [pyWeather](https://pyweather-tgl0.onrender.com/)
 
 ## Technologies Used
 
